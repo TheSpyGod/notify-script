@@ -18,7 +18,7 @@ Sierra Chart (C++) → notify.py → ntfy.sh → phone app
 Pick a long, random string — this is your private channel:
 
 ```
-forex-alerts-k7x9mq2p
+your-topic-name
 ```
 
 Anyone who knows this name can send or receive on it, so don't use something guessable.
